@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 26 15:10:39 PST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\User\\Desktop\\UBC\\app usage\\loa\\Phase_wifi_direct\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

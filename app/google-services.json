@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980000009331",
+    "firebase_url": "https://phase2-9d823.firebaseio.com",
+    "project_id": "phase2-9d823",
+    "storage_bucket": "phase2-9d823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980000009331:android:d44fc1da46268f4820ce06",
+        "android_client_info": {
+          "package_name": "com.example.user.phase_wifi_direct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980000009331-a58o0286goq5iur8fj0k6fn9pv16s1c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNc0LOEHHc0OyQOhqAeBUVKy5IYa9-QbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980000009331-a58o0286goq5iur8fj0k6fn9pv16s1c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

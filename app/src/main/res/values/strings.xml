@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UBCO_Phase_2</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+</resources>

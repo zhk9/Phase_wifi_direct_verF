@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [com.rvalerio:fgchecker:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fgchecker-1.1.0.aar\77be3180c20374aa81d9ebaa3c869171\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\3d40cdacc3fb71510eb888fdad6736f4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\55541b3810d4881fcc7b893bd72ba8dc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8bcd6ff486288c3b33933be9f34c00a3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\17a369f16e28d8e2577c79c48056c41c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2ff49cb2c4ae3dd304c68c60a21a9c25\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\127055498f281a0a4afb67657768e2b6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\c0fe20bd7b920f1838703fbb522c0458\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\4b591c96dd6f1691955deba0a932d530\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6f3f1aeee4fdcc9055b4cf65e288a480\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\10d465cc845396a6d75f769dcf993622\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b3c2058ff2f72f6b5b1c095cb54d0816\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\a104634c734e23cc55d2640ab22e6161\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e57e9310eca58fb02045029a5638ee00\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\1c27edd64e8862c0e13d9524ef38e6bd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\81917d2cdbfd7c4e1e853c44b75cf95b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\2723eb820555bd0060aac541ce16c939\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\715bec50e3f6dfda558e357f075bbba1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\5ab06dbc86537016348fc20f026291b3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c5d3d2b60f5d77c92dabc415280090e8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\3e9f316bd513426d2db55ca7e6fd4d75\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\8fc58cd9f2f35f3968b89fe735da9e71\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\d1349ac7db73923935a77ed7f067a87b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\fd6d4444afac3932ba69e7e19b64238c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\452fdace9daa0d3ff515ba735203ae1e\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1b7cbcf4546c4f9c898a28a3e13d9d16\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fd65dfdfd156cbee0f53a8b11d914cd9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8692ea190708adecd8796e7b5242a241\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76e82a6e9dbbdfa9f8ad399e11837774\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:4:5-49
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:12:5-13:47
+	tools:ignore
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:12:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.REORDER_TASKS
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:16:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:19:22-78
+application
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:21:5-57:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\55541b3810d4881fcc7b893bd72ba8dc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\55541b3810d4881fcc7b893bd72ba8dc\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8bcd6ff486288c3b33933be9f34c00a3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8bcd6ff486288c3b33933be9f34c00a3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\17a369f16e28d8e2577c79c48056c41c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\17a369f16e28d8e2577c79c48056c41c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2ff49cb2c4ae3dd304c68c60a21a9c25\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2ff49cb2c4ae3dd304c68c60a21a9c25\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:23:9-36
+	android:allowBackup
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.user.phase_wifi_direct.MainActivity
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:32:27-74
+service#com.example.user.phase_wifi_direct.WiFiTwoWay
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:35:9-38:15
+	android:enabled
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:36:13-35
+	android:permission
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:37:13-87
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:35:18-44
+service#com.example.user.phase_wifi_direct.NotificationService
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:39:9-45:19
+	android:enabled
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:40:13-35
+	android:permission
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:41:13-87
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:39:18-53
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:42:13-44:29
+action#android.service.notification.NotificationListenerService
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:43:17-99
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:43:25-96
+receiver#com.example.user.phase_wifi_direct.WifiReceiver
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:46:9-50:20
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:46:19-47
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:47:13-49:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:48:17-79
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:48:25-76
+receiver#com.example.user.phase_wifi_direct.StartActivityOnBootReceiver
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:51:9-56:20
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:51:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:52:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:53:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml:54:25-79
+uses-sdk
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+MERGED from [com.rvalerio:fgchecker:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fgchecker-1.1.0.aar\77be3180c20374aa81d9ebaa3c869171\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rvalerio:fgchecker:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\fgchecker-1.1.0.aar\77be3180c20374aa81d9ebaa3c869171\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\3d40cdacc3fb71510eb888fdad6736f4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\3d40cdacc3fb71510eb888fdad6736f4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\55541b3810d4881fcc7b893bd72ba8dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\55541b3810d4881fcc7b893bd72ba8dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8bcd6ff486288c3b33933be9f34c00a3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\8bcd6ff486288c3b33933be9f34c00a3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\17a369f16e28d8e2577c79c48056c41c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\17a369f16e28d8e2577c79c48056c41c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2ff49cb2c4ae3dd304c68c60a21a9c25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2ff49cb2c4ae3dd304c68c60a21a9c25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\127055498f281a0a4afb67657768e2b6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\127055498f281a0a4afb67657768e2b6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\c0fe20bd7b920f1838703fbb522c0458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\c0fe20bd7b920f1838703fbb522c0458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\4b591c96dd6f1691955deba0a932d530\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\4b591c96dd6f1691955deba0a932d530\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6f3f1aeee4fdcc9055b4cf65e288a480\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6f3f1aeee4fdcc9055b4cf65e288a480\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\10d465cc845396a6d75f769dcf993622\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\10d465cc845396a6d75f769dcf993622\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b3c2058ff2f72f6b5b1c095cb54d0816\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\b3c2058ff2f72f6b5b1c095cb54d0816\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\a104634c734e23cc55d2640ab22e6161\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\a104634c734e23cc55d2640ab22e6161\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e57e9310eca58fb02045029a5638ee00\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e57e9310eca58fb02045029a5638ee00\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\1c27edd64e8862c0e13d9524ef38e6bd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\1c27edd64e8862c0e13d9524ef38e6bd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\81917d2cdbfd7c4e1e853c44b75cf95b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\81917d2cdbfd7c4e1e853c44b75cf95b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\2723eb820555bd0060aac541ce16c939\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\2723eb820555bd0060aac541ce16c939\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\715bec50e3f6dfda558e357f075bbba1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\715bec50e3f6dfda558e357f075bbba1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\5ab06dbc86537016348fc20f026291b3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\5ab06dbc86537016348fc20f026291b3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c5d3d2b60f5d77c92dabc415280090e8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c5d3d2b60f5d77c92dabc415280090e8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\3e9f316bd513426d2db55ca7e6fd4d75\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\3e9f316bd513426d2db55ca7e6fd4d75\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\8fc58cd9f2f35f3968b89fe735da9e71\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\8fc58cd9f2f35f3968b89fe735da9e71\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\d1349ac7db73923935a77ed7f067a87b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\d1349ac7db73923935a77ed7f067a87b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\fd6d4444afac3932ba69e7e19b64238c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\fd6d4444afac3932ba69e7e19b64238c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\452fdace9daa0d3ff515ba735203ae1e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\452fdace9daa0d3ff515ba735203ae1e\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1b7cbcf4546c4f9c898a28a3e13d9d16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1b7cbcf4546c4f9c898a28a3e13d9d16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fd65dfdfd156cbee0f53a8b11d914cd9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fd65dfdfd156cbee0f53a8b11d914cd9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8692ea190708adecd8796e7b5242a241\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8692ea190708adecd8796e7b5242a241\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76e82a6e9dbbdfa9f8ad399e11837774\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76e82a6e9dbbdfa9f8ad399e11837774\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Desktop\UBC\app usage\loa\Phase_wifi_direct\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95a62860df4803bca5bd625ee23f76c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a6d36ef250764e5d4466bdc3407fea1b\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\66e5facee33fdcf8929ec8cfe0925e1e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f33ba7b7685c650e34134221b1fa9ec0\AndroidManifest.xml:27:13-51
